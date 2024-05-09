@@ -97,3 +97,6 @@ alt="벤치마킹">
 
 도메인은 pickstom.com으로 고르다의 ‘pick’와 custom의 stom을 합친 단어로
 사용자가 원하는 디자인을 선택해 커스텀이 가능하다는 의미로 pickstom으로 결정하게 되었습니다. 
+
+### 스케치
+<img src="https://github.com/123dd654/pickstom-project/assets/161431124/affbbead-08bc-4b31-9265-6b2e016b3312" alt="">
